@@ -6,14 +6,14 @@ Korean formatting for java.
 Provides almost same APIs as `java.util.Formatter` & `String.format`.  
 
 Format string syntax follows [Java's standard](http://docs.oracle.com/javase/6/docs/api/java/util/Formatter.html#syntax)
-and you can Extend it.  
+and you can extend it.  
 
 Format conversions provided by this package
 -------------------------------------------
 
-*   을
+*   `을`
 
-*   이
+*   `이`
     
 Example
 -------
