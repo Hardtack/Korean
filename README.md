@@ -14,6 +14,8 @@ Format conversions provided by this package
 *   `을`
 
 *   `이`
+
+*   `은`
     
 Example
 -------

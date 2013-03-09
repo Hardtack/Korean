@@ -24,4 +24,8 @@ public class Eulrlega {
 	public static String getEga(String word) {
 		return eulrlega(word)? "이" : "가";
 	}
+	
+	public static String getEunnn(String word) {
+		return eulrlega(word)? "은" : "는";		
+	}
 }
