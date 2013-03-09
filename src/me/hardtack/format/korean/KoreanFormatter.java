@@ -17,6 +17,7 @@ public class KoreanFormatter extends ExtendableFormatter {
 		List<Converter> converters = new LinkedList<Converter>();
 		converters.add(new EulRlConverter());
 		converters.add(new EgaConverter());
+		converters.add(new EunnnConverter());
 		return converters;
 	}
 	public KoreanFormatter() {
